@@ -24,5 +24,13 @@ function makeInt(num){ parseInt()
   return parseInt(num, 10);
 }
 
- 
+ function preser(num){
+    var n = parseFloat(num);
+    if (isNaN(n)) {
+        return "0";
+    }
+    else {
+        return parseFloat(num);
+    }
+}
   

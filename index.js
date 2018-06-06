@@ -25,6 +25,8 @@ function makeInt(num){ parseInt()
 }
 function preserveDecimal(num){
   parseFloat();
+ else{ 
   return parseFloat(num, 10) ;
+  
    
 }

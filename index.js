@@ -23,6 +23,6 @@ function dec(a){
 function makeInt(num){ parseInt()
   return parseInt(num, 10);
 }
-function preserveDecimal (parseFloat('2,222')
+function preserveDecimal (parseFloat 'num')
  
   

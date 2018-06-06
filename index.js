@@ -20,5 +20,5 @@ function dec(a){
 
   return a -1;
 }
-
+function makeInt("10", 10)
 var a = parseInt("10");

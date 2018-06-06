@@ -20,6 +20,6 @@ function dec(a){
 
   return a -1;
 }
-function makeInt(num){ parseInt(10)
+function makeInt(num){ parseInt(10, 10)
   return num;
 }
